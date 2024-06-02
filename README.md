@@ -2,7 +2,6 @@
 
 #### A Junior Full Stack Developer 
 
-- 🔭 I'm currently a student at Integrify Academy
 - 🌱 I’m currently learning React JS - TypeScript - C# 
 - 👯 I’m looking to collaborate with developers to build useful projects
 - 👾 I'm curious about learning new languages and working with different people<br />(I believe combining different minds/thoughts can build a different World) 
